@@ -28,12 +28,13 @@ This project is ideal for online exam monitoring, where detecting the presence o
    cd detective-ai
 
 2. Install dependencies:
+   ```bash
     npm install
     or
     yarn install
 
 3. Running the Application:
-
+   ```bash
     npm run dev
     or
     yarn dev

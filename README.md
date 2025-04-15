@@ -29,18 +29,18 @@ This project is ideal for online exam monitoring, where detecting the presence o
 
 2. Install dependencies:
     npm install
-    # or
+    or
     yarn install
 
 3. Running the Application:
 
     npm run dev
-    # or
+    or
     yarn dev
 
 
 Technologies Used
-Next.js: Framework for building the web application.
-React: Library for building the user interface.
-TensorFlow.js: For running the Coco-SSD model in the browser.
-Tailwind CSS: For styling the application.
+- **Next.js**: Framework for building the web application.
+- **React**: Library for building the user interface.
+- **TensorFlow.js**: For running the Coco-SSD model in the browser.
+- **Tailwind CSS**: For styling the application.
